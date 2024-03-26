@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning 3 rd year b-tech
 - 💞️ I’m looking to collaborate on amazon webdevelopment services
 - - 📫 How to reach me chlokesh973@gmail.com
-- 😄 Pronouns: lokesh
+- 😄 Pronouns: he / him
 - ⚡ Fun fact: i am very honest person and hardworker
 
 <!---
