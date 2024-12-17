@@ -1,7 +1,7 @@
 - 👋 Hi, I’m lokesh chinthaginjala
 - 👀 I’m interested in cloud architecture
-- 🌱 I’m currently learning 3 rd year b-tech
-- 💞️ I’m looking to collaborate on amazon webdevelopment services
+- 🌱 I’m currently learning 4 th year b-tech
+- 💞️ I’m looking to collaborate on webdevelopment services
 - - 📫 How to reach me chlokesh973@gmail.com
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: i am very honest person and hardworker
